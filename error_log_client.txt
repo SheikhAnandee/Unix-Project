@@ -1,0 +1,22 @@
+Sep 03, 2023 9:41:38 PM chat_client.UserDatabaseDeserialization loadUserData
+SEVERE: Failed to load user database: user_database.ser (The system cannot find the file specified)
+Sep 03, 2023 9:49:22 PM chat_client.UserDatabaseDeserialization loadUserData
+SEVERE: Failed to load user database: user_database.ser (The system cannot find the file specified)
+Sep 03, 2023 9:50:16 PM chat_client.UserDatabaseDeserialization loadUserData
+SEVERE: Failed to load user database: chat_server.UserDatabase
+Sep 03, 2023 9:51:58 PM chat_client.UserDatabaseDeserialization loadUserData
+SEVERE: Failed to load user database: chat_server.UserDatabase
+Sep 03, 2023 9:57:59 PM chat_client.UserDatabaseDeserialization loadUserData
+SEVERE: Failed to load user database: chat_server.UserDatabase
+Sep 03, 2023 9:59:43 PM chat_client.UserDatabaseDeserialization loadUserData
+SEVERE: Failed to load user database: chat_server.UserDatabase
+Sep 03, 2023 10:01:54 PM chat_client.UserDatabaseDeserialization loadUserData
+SEVERE: Failed to load user database: chat_server.UserDatabase
+Sep 04, 2023 9:35:55 PM chat_client_and_server.client_frame b_connectActionPerformed
+SEVERE: Cannot Connect: Connection refused: connect
+Sep 04, 2023 9:54:38 PM chat_client_and_server.client_frame b_connectActionPerformed
+SEVERE: Cannot Connect: Connection refused: connect
+Sep 04, 2023 9:55:36 PM chat_client_and_server.client_frame b_connectActionPerformed
+SEVERE: Cannot Connect: Connection refused: connect
+Sep 04, 2023 10:00:13 PM chat_client_and_server.client_frame b_connectActionPerformed
+SEVERE: Cannot Connect: Connection refused: connect
